@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Vinicius Mendes — produto, dados e sistemas internos" width="100%" />
+  <img src="https://raw.githubusercontent.com/evinicim/evinicim/main/assets/banner.svg" alt="Vinicius Mendes — produto, dados e sistemas internos" width="100%" />
   <br/>
   <a href="https://github.com/evinicim">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=eu+fa%C3%A7o+o+sistema+interno+andar;odoo%2C+dado+e+produto+no+mundo+real;n%C3%A3o+%C3%A9+tutorial.+%C3%A9+opera%C3%A7%C3%A3o." alt="texto animado do perfil" />
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=evinicim&label=visitas&color=58A6FF&style=for-the-badge" alt="contador de visitas do perfil"/>
-  &nbsp;
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-mendes-correia">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -19,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/kpis.svg" alt="indicadores: contribuições, código privado, foco em produto e dados, Brasília" width="100%" />
+  <img src="https://raw.githubusercontent.com/evinicim/evinicim/main/assets/kpis.svg" alt="indicadores: contribuições, código privado, foco em produto e dados, Brasília" width="100%" />
 </div>
 
 ---
