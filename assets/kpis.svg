@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="168" viewBox="0 0 1100 168" role="img" aria-label="Indicadores do perfil">
+  <defs>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#3fb950" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="168" rx="24" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1099" height="167" rx="24" fill="none" stroke="url(#stroke)"/>
+
+  <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
+    <g transform="translate(0,0)">
+      <text x="137" y="58" text-anchor="middle" font-size="12" letter-spacing="2.4" fill="#8b949e">CONTRIBUICOES</text>
+      <text x="137" y="106" text-anchor="middle" font-size="34" font-weight="700" fill="#f0f6fc">~1.4k</text>
+      <text x="137" y="132" text-anchor="middle" font-size="13" fill="#58a6ff">no ultimo ano</text>
+    </g>
+    <line x1="275" y1="36" x2="275" y2="132" stroke="#30363d"/>
+    <g>
+      <text x="412" y="58" text-anchor="middle" font-size="12" letter-spacing="2.4" fill="#8b949e">ONDE MORA O CODIGO</text>
+      <text x="412" y="106" text-anchor="middle" font-size="34" font-weight="700" fill="#f0f6fc">privado</text>
+      <text x="412" y="132" text-anchor="middle" font-size="13" fill="#3fb950">sistema da ong</text>
+    </g>
+    <line x1="550" y1="36" x2="550" y2="132" stroke="#30363d"/>
+    <g>
+      <text x="688" y="58" text-anchor="middle" font-size="12" letter-spacing="2.4" fill="#8b949e">FOCO</text>
+      <text x="688" y="106" text-anchor="middle" font-size="28" font-weight="700" fill="#f0f6fc">produto + dado</text>
+      <text x="688" y="132" text-anchor="middle" font-size="13" fill="#a371f7">odoo no dia a dia</text>
+    </g>
+    <line x1="825" y1="36" x2="825" y2="132" stroke="#30363d"/>
+    <g>
+      <text x="962" y="58" text-anchor="middle" font-size="12" letter-spacing="2.4" fill="#8b949e">BASE</text>
+      <text x="962" y="106" text-anchor="middle" font-size="28" font-weight="700" fill="#f0f6fc">Brasilia</text>
+      <text x="962" y="132" text-anchor="middle" font-size="13" fill="#58a6ff">DF · POF</text>
+    </g>
+  </g>
+</svg>
