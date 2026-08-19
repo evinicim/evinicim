@@ -17,21 +17,21 @@
     </g>
     <line x1="275" y1="36" x2="275" y2="132" stroke="#30363d"/>
     <g>
-      <text x="412" y="58" text-anchor="middle" font-size="12" letter-spacing="2.4" fill="#8b949e">ONDE MORA O CODIGO</text>
-      <text x="412" y="106" text-anchor="middle" font-size="34" font-weight="700" fill="#f0f6fc">privado</text>
-      <text x="412" y="132" text-anchor="middle" font-size="13" fill="#3fb950">sistema da ong</text>
+      <text x="412" y="58" text-anchor="middle" font-size="12" letter-spacing="2.4" fill="#8b949e">ESCOPO</text>
+      <text x="412" y="106" text-anchor="middle" font-size="34" font-weight="700" fill="#f0f6fc">Odoo geral</text>
+      <text x="412" y="132" text-anchor="middle" font-size="13" fill="#3fb950">customizacao</text>
     </g>
     <line x1="550" y1="36" x2="550" y2="132" stroke="#30363d"/>
     <g>
-      <text x="688" y="58" text-anchor="middle" font-size="12" letter-spacing="2.4" fill="#8b949e">FOCO</text>
-      <text x="688" y="106" text-anchor="middle" font-size="28" font-weight="700" fill="#f0f6fc">produto + dado</text>
-      <text x="688" y="132" text-anchor="middle" font-size="13" fill="#a371f7">odoo no dia a dia</text>
+      <text x="688" y="58" text-anchor="middle" font-size="12" letter-spacing="2.4" fill="#8b949e">GESTAO</text>
+      <text x="688" y="106" text-anchor="middle" font-size="28" font-weight="700" fill="#f0f6fc">equipe + dado</text>
+      <text x="688" y="132" text-anchor="middle" font-size="13" fill="#a371f7">alinhamento</text>
     </g>
     <line x1="825" y1="36" x2="825" y2="132" stroke="#30363d"/>
     <g>
       <text x="962" y="58" text-anchor="middle" font-size="12" letter-spacing="2.4" fill="#8b949e">BASE</text>
       <text x="962" y="106" text-anchor="middle" font-size="28" font-weight="700" fill="#f0f6fc">Brasilia</text>
-      <text x="962" y="132" text-anchor="middle" font-size="13" fill="#58a6ff">DF / POF</text>
+      <text x="962" y="132" text-anchor="middle" font-size="13" fill="#58a6ff">DF</text>
     </g>
   </g>
 </svg>
