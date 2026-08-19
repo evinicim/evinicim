@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/evinicim/evinicim@e45e4781298f874419d99fde5d96d761b538a48a/assets/banner.svg" alt="Vinicius Mendes — produto, dados e sistemas internos" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/evinicim/evinicim@a46e53482d2e3aba0fbce60e864ee503c0426c50/assets/banner.svg" alt="Vinicius Mendes — produto, Odoo e gestão" width="100%" />
   <br/>
   <a href="https://github.com/evinicim">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=eu+fa%C3%A7o+o+sistema+interno+andar;odoo%2C+dado+e+produto+no+mundo+real;n%C3%A3o+%C3%A9+tutorial.+%C3%A9+opera%C3%A7%C3%A3o." alt="texto animado do perfil" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Odoo%2C+customiza%C3%A7%C3%A3o+e+gest%C3%A3o;produto%2C+dado+e+equipe;do+backlog+at%C3%A9+a+tela" alt="texto animado do perfil" />
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-mendes-correia">
@@ -17,27 +17,28 @@
 <br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/evinicim/evinicim@e45e4781298f874419d99fde5d96d761b538a48a/assets/kpis.svg" alt="indicadores: contribuições, código privado, foco em produto e dados, Brasília" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/evinicim/evinicim@a46e53482d2e3aba0fbce60e864ee503c0426c50/assets/kpis.svg" alt="indicadores: contribuições, Odoo geral, gestão e Brasília" width="100%" />
 </div>
 
 ---
 
 ### quem eu sou
 
-Eu sou o Vinicius. Trabalho na [Programando o Futuro](https://www.programandoofuturo.org.br), em Brasília.
+Vinicius Mendes. Brasília.
 
-Meu dia a dia é o sistema que a operação usa de verdade: matrícula, turma, fila, painel, dado que fecha reunião. Produto + dado + Odoo. Não é portfólio de tutorial.
+Currículo resumido: produto + Odoo + operação. Eu pego sistema, número e gente e faço isso virar rotina.
 
-Uma parte grande do código vive em repo privado da ONG. Se o gráfico público parecer magro, é isso — o volume tá no interno.
+Não mexo só num canto do ERP. É Odoo no geral — customização, módulo novo, fluxo que a casa já usa, o que precisa nascer e o que precisa parar de quebrar. Do lado de fora do código: Gestão POF, alinhamento, prioridade, equipe.
 
 ### no que eu mexo
 
-- **Odoo pedagógico** — ficha, turma, alocação, fila, o fluxo que a equipe usa todo dia
-- **dados e painel** — número que precisa bater pra reunião, não dashboard enfeite
-- **produto interno** — do backlog até a tela, com a operação do lado
-- **MetaLAB / território** — visita, laboratório, o tipo de ferramenta que sai da sala e vai pro campo
+- **Odoo (o sistema todo)** — pedagógico, projetos, RH, financeiro, patrimônio, frota, o módulo que estiver na mesa. Customização, XML, Python, Postgres.
+- **Gestão POF** — painel, indicador, o número que a gestão usa de verdade
+- **Alinhamento** — o que entra, o que espera, o que não é prioridade essa semana
+- **Equipe** — backlog, review, o time de dev andando junto
+- **Dado** — SQL, painel, Power BI quando a decisão precisa de gráfico, não de feeling
 
-### stack que eu uso de verdade
+### stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,php,java,html,css,postgres,docker,linux,git,github,githubactions,vscode,react" alt="Python, TypeScript, JavaScript, Node, PHP, Java, HTML, CSS, Postgres, Docker, Linux, Git, GitHub, Actions, VS Code, React" />
@@ -45,9 +46,9 @@ Uma parte grande do código vive em repo privado da ONG. Se o gráfico público 
 
 <br/>
 
-Odoo · Python · TypeScript · PostgreSQL · XML · Playwright · Power BI quando o número precisa ir pra diretoria.
+Odoo · Python · TypeScript · PostgreSQL · XML · Playwright · Power BI
 
-Linguagem no GitHub público mente um pouco: o que aparece é repo aberto de estudo. O trabalho pesado (Python, TS, Odoo) fica no privado.
+A maior parte do trabalho vive em ambiente interno. O GitHub público mostra estudo e lab. O volume está no ERP e nos painéis do dia a dia.
 
 ### números ao vivo
 
@@ -81,13 +82,13 @@ Linguagem no GitHub público mente um pouco: o que aparece é repo aberto de est
 
 | repo | o que é |
 | --- | --- |
-| [metalab-visitas](https://github.com/evinicim/metalab-visitas) | app de visitas domiciliares — MetaLAB Águas Emendadas |
-| [dashboard-metalab](https://github.com/evinicim/dashboard-metalab) | painel de marketing digital do MetaLAB |
-| [reserva_laboratorios](https://github.com/evinicim/reserva_laboratorios) | reserva de laboratório em PHP |
-| [dados-gestao](https://github.com/evinicim/dados-gestao) | painel de gestão de resíduos (privado) |
+| [metalab-visitas](https://github.com/evinicim/metalab-visitas) | app de visitas em campo (TypeScript) |
+| [dashboard-metalab](https://github.com/evinicim/dashboard-metalab) | dashboard de marketing (Python) |
+| [reserva_laboratorios](https://github.com/evinicim/reserva_laboratorios) | reserva de laboratório (PHP) |
+| [dados-gestao](https://github.com/evinicim/dados-gestao) | painel de gestão (privado) |
 
-O resto é estudo, lab e coisa antiga. Deixei no ar. Não vou fingir que é produto.
+O resto é estudo, lab e coisa antiga. Deixei no ar. Não vou fingir que é o trabalho principal — esse está no Odoo.
 
 ### contato
 
-Se for papo reto: [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-mendes-correia) ou [e-mail](mailto:contatovinicius.mends@gmail.com).
+[LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-mendes-correia) ou [e-mail](mailto:contatovinicius.mends@gmail.com).
