@@ -26,17 +26,17 @@
 
 Vinicius Mendes. Brasília.
 
-Currículo resumido: produto + Odoo + operação. Eu pego sistema, número e gente e faço isso virar rotina.
+Produto e sistemas. Eu cuido do Odoo de ponta a ponta — não de um módulo isolado: customização, fluxo novo, o que já está em produção e o que ainda precisa nascer. Do lado de fora do código: Gestão POF, alinhamento, prioridade e o time de dev.
 
-Não mexo só num canto do ERP. É Odoo no geral — customização, módulo novo, fluxo que a casa já usa, o que precisa nascer e o que precisa parar de quebrar. Do lado de fora do código: Gestão POF, alinhamento, prioridade, equipe.
+O trabalho principal não está neste GitHub. Está no ERP, no painel e na rotina da operação.
 
-### no que eu mexo
+### o que eu faço
 
-- **Odoo (o sistema todo)** — pedagógico, projetos, RH, financeiro, patrimônio, frota, o módulo que estiver na mesa. Customização, XML, Python, Postgres.
-- **Gestão POF** — painel, indicador, o número que a gestão usa de verdade
-- **Alinhamento** — o que entra, o que espera, o que não é prioridade essa semana
-- **Equipe** — backlog, review, o time de dev andando junto
-- **Dado** — SQL, painel, Power BI quando a decisão precisa de gráfico, não de feeling
+- **Odoo / ERP** — pedagógico, projetos, RH, financeiro, patrimônio, frota. Python, XML, Postgres. Customização e módulo novo.
+- **Produto** — backlog, recorte de escopo, o que entra no ciclo e o que espera.
+- **Gestão e alinhamento** — indicador, reunião, número que a gestão usa. Gestão POF.
+- **Equipe** — review, prioridade, o time andando junto sem virar fila de tarefa solta.
+- **Dado** — SQL, painel, Power BI quando a decisão precisa de gráfico.
 
 ### stack
 
@@ -46,9 +46,7 @@ Não mexo só num canto do ERP. É Odoo no geral — customização, módulo nov
 
 <br/>
 
-Odoo · Python · TypeScript · PostgreSQL · XML · Playwright · Power BI
-
-A maior parte do trabalho vive em ambiente interno. O GitHub público mostra estudo e lab. O volume está no ERP e nos painéis do dia a dia.
+Odoo · Python · TypeScript · PostgreSQL · XML · Next.js · Playwright · Power BI · React Native
 
 ### números ao vivo
 
@@ -78,17 +76,19 @@ A maior parte do trabalho vive em ambiente interno. O GitHub público mostra est
 
 ---
 
-### o que vale olhar nos repos
+### projetos (o que dá pra olhar aqui)
 
 | repo | o que é |
 | --- | --- |
-| [metalab-visitas](https://github.com/evinicim/metalab-visitas) | app de visitas em campo (TypeScript) |
-| [dashboard-metalab](https://github.com/evinicim/dashboard-metalab) | dashboard de marketing (Python) |
-| [reserva_laboratorios](https://github.com/evinicim/reserva_laboratorios) | reserva de laboratório (PHP) |
-| [dados-gestao](https://github.com/evinicim/dados-gestao) | painel de gestão (privado) |
+| [reserva_laboratorios](https://github.com/evinicim/reserva_laboratorios) | LabHub — reserva de laboratório. PHP 8, MVC, Postgres. [produção](https://labhub-uniceplac-sp.fly.dev/) |
+| [metalab-visitas](https://github.com/evinicim/metalab-visitas) | Visitas em campo: rota, ficha, acompanhamento. Next.js, TypeScript, Supabase |
+| [dashboard-metalab](https://github.com/evinicim/dashboard-metalab) | Painel de turma: inscrição, avaliação, status. Python / Streamlit |
+| [dados-gestao](https://github.com/evinicim/dados-gestao) | Painel de resíduos e destinação, quase tempo real. Next.js + Postgres (privado) |
 
-O resto é estudo, lab e coisa antiga. Deixei no ar. Não vou fingir que é o trabalho principal — esse está no Odoo.
+Fora do público: o ERP Odoo (trabalho principal), e-commerce (Next.js, pagamento, admin) e app mobile de educação financeira (React Native / Expo).
+
+Estudo e lab antigo ficam no perfil. Não são o trabalho.
 
 ### contato
 
-[LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-mendes-correia) ou [e-mail](mailto:contatovinicius.mends@gmail.com).
+[LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-mendes-correia) · [e-mail](mailto:contatovinicius.mends@gmail.com)
