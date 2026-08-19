@@ -58,7 +58,7 @@ Linguagem no GitHub público mente um pouco: o que aparece é repo aberto de est
 </div>
 
 <div align="center">
-  <img src="https://icon.mzrdev.com/trophy?username=evinicim&theme=dark&column=6" alt="troféus de contribuição do GitHub"/>
+  <img src="https://icon.mzrdev.com/trophy?username=evinicim&theme=dark&columns=4&title=false&hide=stars,followers,issues,reviews" alt="troféus de contribuição do GitHub"/>
 </div>
 
 ### atividade
